@@ -138,7 +138,6 @@ function spawnObstacle() {
     obstacle.scale = 0.1;
     obstacle.velocityX = -3;
     obstacle.lifetime = 150;
-   // obstacle.debug =true;
 
     obstacleGroup.add(obstacle);
   }
